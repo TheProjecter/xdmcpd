@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2008-2009 Stepan Zastupov
+ * Copyright (C) 2008-2009 Stepan Zastupov AltEll Ltd.
  * Copyright (C) GDM Authors and contributors
  *
  * This program is free software; you can redistribute it and/or modify
